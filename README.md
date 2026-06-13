@@ -9,7 +9,7 @@ This project compares the **Normal distribution** and **Student-t distribution**
 - Calculating Value at Risk (VaR) at 95% confidence level
 - Calculating Expected Shortfall (ES / CVaR)
 - Backtesting both models against a crisis period (2008 financial crisis)
-- Demonstrating why VaR alone can be misleading, and why ES is a better tail-risk measure
+- Demonstrating why VaR alone can be misleading, and why ES is a better tail-risk measure sometimes
 
 ## 📈 Methodology
 
