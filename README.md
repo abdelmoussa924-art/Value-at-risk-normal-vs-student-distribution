@@ -13,7 +13,7 @@ This project compares the **Normal distribution** and **Student-t distribution**
 
 ## 📈 Methodology
 
-1. **Data preparation**: Daily log-returns computed from AAPL closing prices
+1. **Data preparation**: Daily log-returns computed from Apple closing prices
 2. 2. **Calibration period** (2006-2007, "calm" period):
    - Estimate mean (μ) and volatility (σ) of log-returns
    - Fit a Normal distribution
